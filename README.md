@@ -4,7 +4,7 @@ Overview
 A real-time SQL project using MySQL to analyze e-commerce sales, customers, orders, and revenue.
 The project focuses on solving business problems using SQL queries.
 
-🛠 Tools Used
+# Tools Used
 
 MySQL
 
@@ -22,7 +22,7 @@ Order_Items
 
 Returns
 
- Key Analysis
+# Key Analysis
 
 Monthly revenue
 
@@ -36,7 +36,7 @@ Cancellation rate
 
 Month-on-month sales growth
 
- SQL Concepts Used
+ #SQL Concepts Used
 
 JOINs
 
