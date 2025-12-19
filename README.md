@@ -1,4 +1,4 @@
-E-Commerce Business Analysis using MySQL
+# E-Commerce Business Analysis using MySQL
 Overview
 
 A real-time SQL project using MySQL to analyze e-commerce sales, customers, orders, and revenue.
@@ -36,7 +36,7 @@ Cancellation rate
 
 Month-on-month sales growth
 
- #SQL Concepts Used
+ # SQL Concepts Used
 
 JOINs
 
