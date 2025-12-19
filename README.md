@@ -1,76 +1,49 @@
 E-Commerce Business Analysis using MySQL
-📌 Project Overview
+Overview
 
-This project focuses on real-time E-Commerce Business Analysis using MySQL.
-The goal is to design a relational database and use SQL queries to answer real business questions related to sales, customers, orders, and returns.
+A real-time SQL project using MySQL to analyze e-commerce sales, customers, orders, and revenue.
+The project focuses on solving business problems using SQL queries.
 
-This project simulates how SQL is used in real companies for data-driven decision making.
+🛠 Tools Used
 
-🛠 Tools & Technologies
+MySQL
 
-Database: MySQL
+SQL
 
-Language: SQL
+Tables
 
-Concepts Used:
+Customers
 
-Joins
+Products
 
-Group By & Having
+Orders
 
-Subqueries
+Order_Items
 
-Common Table Expressions (CTE)
+Returns
 
-Window Functions (LAG)
+ Key Analysis
 
-Date Functions
+Monthly revenue
 
-🗂 Database Schema
+Top selling products
 
-The project consists of the following tables:
-
-customers – Stores customer details
-
-products – Stores product information
-
-orders – Stores order-level data
-
-order_items – Stores product-level order details
-
-returns – Stores returned order details
-
-Primary and foreign keys are used to maintain data integrity.
-
-🎯 Business Questions Answered
-🔹 Sales Analysis
-
-Total revenue per month
-
-Top 5 selling products
-
-Revenue by product category
-
-Month-on-month sales growth
-
-🔹 Customer Analysis
-
-Top customers by revenue
-
-Repeat vs new customers
+Revenue by category
 
 Customer Lifetime Value (CLV)
 
-🔹 Order Analysis
+Cancellation rate
 
-Cancellation rate by month
+Month-on-month sales growth
 
-Most used payment method
+ SQL Concepts Used
 
-Average Order Value (AOV)
+JOINs
 
-🔹 Return Analysis
+GROUP BY
 
-Products with highest return count
+CTE
 
-Analysis of return reasons
+Window Functions
+
+Date Functions
